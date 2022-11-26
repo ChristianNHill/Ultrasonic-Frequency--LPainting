@@ -1,4 +1,4 @@
-# Resolve-Ables: Visualize Magnetic Fields With a Light Painting Wearable
+# Resolve-Ables: Visualize and Hear Ultrasonic Frequencies With a Third Ear
 
 [<img src="https://user-images.githubusercontent.com/22805894/204070150-2b8839a7-6098-4714-969c-4a60ba25d63a.jpg" width="100%">](https://www.youtube.com/watch?v=oveCwSwn4iQ)
 https://www.youtube.com/watch?v=vNk0zY5JMzA
